@@ -11,3 +11,12 @@ A alternate use is to act as a legacy system for interesting projects
       - Components
       - Code
       - Pictures
+
+# Project Proposals:
+  - Creating and Breaking through secure doors bot
+  - The Drunken Pelican (Battle Bot)
+  - food delivery bot
+  - news crier bot via bluetooth
+  - Lockpicking Robot
+  - 
+  -
