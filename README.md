@@ -18,5 +18,5 @@ A alternate use is to act as a legacy system for interesting projects
   - food delivery bot
   - news crier bot via bluetooth
   - Lockpicking Robot
-  - 
+  - FlipperZero For Cheap
   -
